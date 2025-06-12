@@ -32,6 +32,7 @@ Filter and display titles released in 2021.
 Identify movies categorized under "Dramas".
 
 📊 Key Visualizations & Insights
+
 🎯 1. Distribution of Content Ratings
 A pie chart shows how Netflix content is distributed among different view ratings (e.g., TV-MA, PG-13, etc.).
 
@@ -51,6 +52,7 @@ List of titles categorized as Movies that were released in 2021.
 Filter of all titles tagged with “Dramas” and categorized as Movies.
 
 🧰 Technologies Used
+
 Python (Jupyter/Colab)
 
 Pandas – Data manipulation and analysis
@@ -62,6 +64,7 @@ Matplotlib – Basic plots
 NumPy – Numerical operations
 
 📦 How to Run
+
 Clone this repository.
 
 Download the dataset from Kaggle and place it in the working directory.
@@ -74,7 +77,9 @@ bash
 Copy
 Edit
 pip install pandas numpy plotly matplotlib openpyxl
+
 📌 Future Work
+
 Add genre-wise time trends.
 
 Explore correlation between IMDb scores and release platforms.
@@ -82,4 +87,5 @@ Explore correlation between IMDb scores and release platforms.
 Build a recommendation system using available metadata.
 
 📄 License
+
 This project is for educational and non-commercial use only. Dataset belongs to original Kaggle contributors.
