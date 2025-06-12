@@ -19,6 +19,7 @@ Release Date and Netflix Release Date
 IMDb Score, View Rating, Box Office data, etc.
 
 📌 Project Objectives
+
 Understand the distribution of content ratings on Netflix.
 
 Identify the most commonly used languages across titles.
@@ -74,8 +75,11 @@ Run the notebook in Google Colab or Jupyter.
 Make sure to install required libraries if not already:
 
 bash
+
 Copy
+
 Edit
+
 pip install pandas numpy plotly matplotlib openpyxl
 
 📌 Future Work
